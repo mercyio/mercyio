@@ -28,6 +28,7 @@ I thrive on:
 **Frameworks:** Node.js, NestJS, Express.js  
 **Databases:** MongoDB, PostgreSQL, MySQL  
 **Infrastructure:** Docker, PM2, NGINX, GitHub Actions, Fly.io, Digital Ocean, Pinata
+
 **Monitoring:** Linux logs, failover systems, usage analytics
 
 ---
