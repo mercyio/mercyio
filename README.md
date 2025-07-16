@@ -55,11 +55,14 @@ I thrive on:
 
 ## 🌍 Featured Projects
 
+- 🧠 [**Ina**](https://github.com/creedtechteam/Ina) – Mental health assistant offering journaling, mood tracking, and AI-powered wellness insights
+- 😴 [**PropellantHr**](https://propellanthr.com) – HR automation platform with secure auth, team workflows, and employee lifecycle management
 - 💸 [**BackerBoost**](https://github.com/mercyio/cardano) – Donation support platform for boosting creators and communities 
+- 🧑🏽‍💼 [**DrowsyGuard**](https://github.com/mercyio/drowsyGuardBackend) – Mobile app for real-time drowsiness detection using facial monitoring and alerts
 - 🎯 [**STOKE**](https://stoke-predict.vercel.app) – Crypto prediction platform with real-time leaderboards, reward automation & wallet logic  
 - ♻️ [**GreenBounty**](https://github.com/mercyio/greenBounty_Backend) – Eco-reward system for incentivizing recycling using a point-based rewards engine  
 - 👶🏽 [**KarePal**](https://karepal-frontend.vercel.app) – AI-powered mobile app for personalized neonatal care using vision + health data  
-- 😴 [**DrowsyGuard**](https://github.com/mercyio/drowsyGuardBackend) – Mobile app for real-time drowsiness detection using facial monitoring and alerts  
+- 💍 [**OJx2025**](https://laraandjosh.co.uk) – Romantic wedding website to tell a love story, manage RSVPs, Guestbook, and celebrate forever 
 
 ---
 
