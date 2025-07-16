@@ -56,7 +56,7 @@ I thrive on:
 ## 🌍 Featured Projects
 
 - 🧠 [**Ina**](https://github.com/creedtechteam/Ina) – Mental health assistant offering journaling, mood tracking, and AI-powered wellness insights
-- 😴 [**PropellantHr**](https://propellanthr.com) – HR automation platform with secure auth, team workflows, and employee lifecycle management
+- 😴 [**PropellantHr**](https://propellanthr.com) – HR automation platform with AI-generated CVs, credential minting & verification, secure uploads,
 - 💸 [**BackerBoost**](https://github.com/mercyio/cardano) – Donation support platform for boosting creators and communities 
 - 🧑🏽‍💼 [**DrowsyGuard**](https://github.com/mercyio/drowsyGuardBackend) – Mobile app for real-time drowsiness detection using facial monitoring and alerts
 - 🎯 [**STOKE**](https://stoke-predict.vercel.app) – Crypto prediction platform with real-time leaderboards, reward automation & wallet logic  
