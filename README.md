@@ -53,6 +53,7 @@ I thrive on:
 
 ## 🌍 Featured Projects
 
+- 💸 [**BackerBoost**](https://github.com/mercyio/cardano) – Donation support platform for boosting creators and communities 
 - 🎯 [**STOKE**](https://github.com/mercyio/stoke) – Crypto prediction platform with real-time leaderboards, reward automation & wallet logic  
 - ♻️ [**GreenBounty**](https://github.com/mercyio/greenBounty_Backend) – Eco-reward system for incentivizing recycling using a point-based rewards engine  
 - 👶🏽 [**KarePal**](https://karepal-frontend.vercel.app) – AI-powered mobile app for personalized neonatal care using vision + health data  
