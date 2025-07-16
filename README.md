@@ -55,6 +55,7 @@ I thrive on:
 
 ## 🌍 Featured Projects
 
+- 🧠 [**Mothrbox**](https://www.mothrbox.xyz) – A privacy-first, developer-focused data storage layer built for modern decentralized and hybrid applications. It enables you to securely encrypt, store, and retrieve anything — models, documents, blobs, metadata — using RESTful APIs.
 - 🧠 [**Ina**](https://github.com/creedtechteam/Ina) – Mental health assistant offering journaling, mood tracking, and AI-powered wellness insights
 - 😴 [**PropellantHr**](https://propellanthr.com) – HR automation platform with AI-generated CVs, credential minting & verification, secure uploads,
 - 💸 [**BackerBoost**](https://github.com/mercyio/cardano) – Donation support platform for boosting creators and communities 
