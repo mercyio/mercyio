@@ -28,6 +28,8 @@ I thrive on:
 
 ---
 
+> “I build for scale, ship with intention, and always optimize for the next dev.”
+
 ## 🧠 Core Tech Stack
 
 - **Languages:** TypeScript, JavaScript  
